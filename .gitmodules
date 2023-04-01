@@ -1,0 +1,3 @@
+[submodule "{{cookiecutter.project_name}}"]
+	path = {{cookiecutter.project_name}}
+	url = ./{{cookiecutter.project_name}}
