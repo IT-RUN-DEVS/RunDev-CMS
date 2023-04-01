@@ -8,7 +8,7 @@
 # 🚀 Getting Started
 
 ```bash
-cookiecutter https://github.com/garpixcms/garpixcms-empty-template
+cookiecutter https://github.com/IT-RUN-DEVS/RunDev-CMS
 cd {{ project_name }}
 python3 -m venv env 
 source env/bin/activate
